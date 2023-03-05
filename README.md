@@ -22,7 +22,7 @@ You can make request using swagger:
 
 ``http://127.0.0.1:5000/apidoc/swagger/``
 
-or
+or httpie( https://httpie.io/docs/ )
 
 `` http get http://127.0.0.1:5000/pessoas``
 
